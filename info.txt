@@ -1,0 +1,11 @@
+sendOTP = http://localhost:7410/api/sendOTP
+
+verifyOTP = http://localhost:7410/api/verifyOTP
+
+signUp = http://localhost:7410/api/signUp
+
+get-all-users = http://localhost:7410/api/getAllUsers
+
+logOut =  http://localhost:7410/api/logout
+
+https://logapp.kmsoft.org/auth/login
